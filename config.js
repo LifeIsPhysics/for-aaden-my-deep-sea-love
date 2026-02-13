@@ -32,7 +32,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you go on nice dates with me this valentine?! 🌹", // The big question!
+            text: "Will you go on nice dates with me today, go into a cafe to a museum and watch a movie? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -48,7 +48,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "Yay! I'm the luckiest person in the world, happy Valentines day! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
@@ -56,12 +56,15 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#edafb8",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#f7e1d7",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#dedbd2",     // Button color (should stand out against the background)
+        buttonHover: "#b0c4b1",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#4a5759"             // Text color (make sure it's readable!)
     },
+
+    // ["#edafb8","#f7e1d7","#dedbd2","#b0c4b1","#4a5759"]
+    
 
     // Animation settings
     // Adjust these if you want faster/slower animations
