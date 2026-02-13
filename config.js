@@ -32,7 +32,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you go on nice dates with me today, go into a cafe to a museum and watch a movie? 🌹", // The big question!
+            text: "Will you go on a beautiful Valentines Day date with me today? We will go into a cafe, museum and watch a movie! 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
